@@ -1,0 +1,36 @@
+.project-container {
+  margin: 5vh 0 20vh 0;
+}
+
+.project-content {
+  margin: 5vh 0;
+}
+
+.project-thumbnail img {
+  width: 100%;
+  height: auto;
+}
+
+.github-btn {
+  color: #fff;
+  background-color: #000;
+  border-radius: 40px;
+  font-size: 0.8rem;
+}
+
+.github-btn:hover {
+  text-decoration: dashed underline #fff;
+  color: #fff;
+}
+
+.live-btn {
+  color: #fff;
+  background-color: var(--secondaryColor);
+  border-radius: 40px;
+  font-size: 0.8rem;
+}
+
+.live-btn:hover {
+  text-decoration: dashed underline #fff;
+  color: #fff;
+}
