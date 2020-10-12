@@ -26,7 +26,7 @@ const Contact = () => {
       <div className="row">
         <div className="col-4">
           <img
-            src="./profile.jpg"
+            src="./profile.png"
             alt=""
             height="100vh"
             className="profile-picture"

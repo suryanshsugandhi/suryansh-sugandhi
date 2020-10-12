@@ -5,16 +5,16 @@ import bg from "./bg-1.svg"
 export default () => {
   return (
     <Section background={bg} id="home">
-      <h1 className="title" style={{ fontWeight: 800 }}>
+      <h1 className="title reveal-row" style={{ fontWeight: 800 }}>
         Hi, I am Suryansh Sugandhi
       </h1>
-      <h2 className="subtitle" style={{ fontWeight: 800 }}>
+      <h2 className="subtitle reveal-row" style={{ fontWeight: 800 }}>
         I am a full stack developer{" "}
         <span role="img" aria-label="developer">
           💻
         </span>
       </h2>
-      <div className="d-flex justify-content-space-around align-items-center">
+      <div className="d-flex justify-content-space-around align-items-center reveal-row">
         <a
           href="https://github.com/suryanshsugandhi"
           target="_blank"
@@ -30,7 +30,7 @@ export default () => {
           <i className="fab fa-linkedin" />
         </a>
       </div>
-      <a href="#about">
+      <a href="#about" className="reveal-row">
         Know more about me
         <i className="fas fa-chevron-down animated bounce infinite slower delay-2s" />
       </a>
