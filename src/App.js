@@ -3,6 +3,7 @@ import React from "react"
 import "./App.css"
 import Navbar from "./components/Header/Navbar"
 import About from "./screens/About"
+import Contact from "./screens/Contact"
 import Home from "./screens/Home"
 import Projects from "./screens/Projects"
 
@@ -13,6 +14,7 @@ const App = () => {
       <Home />
       <About />
       <Projects />
+      <Contact />
     </div>
     // <BrowserRouter>
     //   <Navbar />

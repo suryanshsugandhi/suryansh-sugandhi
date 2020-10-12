@@ -14,6 +14,22 @@ export default () => {
           💻
         </span>
       </h2>
+      <div className="d-flex justify-content-space-around align-items-center">
+        <a
+          href="https://github.com/suryanshsugandhi"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <i className="fab fa-github" />
+        </a>
+        <a
+          href="http://linkedin.com/in/suryanshsugandhi"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <i className="fab fa-linkedin" />
+        </a>
+      </div>
       <a href="#about">
         Know more about me
         <i className="fas fa-chevron-down animated bounce infinite slower delay-2s" />

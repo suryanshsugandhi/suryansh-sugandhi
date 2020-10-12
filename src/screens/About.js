@@ -12,7 +12,7 @@ export default () => {
             Suryansh Sugandhi
           </h2>
           <h4 className="subtitle">Developer | Designer</h4>
-          <p>
+          <p className="text-secondary">
             I am a MERN stack web developer
             <br />
             <br />I work to design and develop robust, modular and minimalist web

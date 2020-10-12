@@ -1,4 +1,5 @@
 import React from "react"
+
 const Navbar = () => {
   return (
     <div id="nav" className="d-flex justify-content-center align-items-center">

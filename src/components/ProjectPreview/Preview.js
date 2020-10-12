@@ -14,7 +14,7 @@ export default ({ project, reverse }) => {
           <span className="badge badge-secondary m-0 mx-1">{tag}</span>
         ))}
         <h4 className="title">{title}</h4>
-        <p>{description}</p>
+        <p className="text-secondary">{description}</p>
         <a
           href={github}
           target="_blank"

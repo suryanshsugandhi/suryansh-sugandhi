@@ -1,7 +1,6 @@
 import React from "react"
 import Preview from "../components/ProjectPreview/Preview"
 import Section from "../components/Section"
-import bg from "./bg-3.svg"
 import { PROJECTS } from "../Constants/projects"
 
 export default () => {
@@ -15,9 +14,10 @@ export default () => {
         <a
           href="https://github.com/suryanshsugandhi"
           target="_blank"
+          rel="noreferrer"
           className="external-link"
         >
-          View more of my work
+          View more of my work on GitHub &#8594;
         </a>
       </p>
     </Section>

@@ -1,7 +1,7 @@
 export const PROJECTS = [
   {
     title: "Invento Quiz Contest",
-    github: "https://github.com/suryanshsugandhi/quiz-app",
+    github: "https://github.com/suryanshsugandhi/quiz-server",
     live: "https://quiz-invento.herokuapp.com/",
     description:
       "Random trivia questions from a pool of 200+ questions on Invento 2019. This project was developed on the MEAN stack for IET DAVV's techfest. It was played by more than 300 participants signed in through google accounts.",
