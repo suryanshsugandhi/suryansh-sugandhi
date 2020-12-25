@@ -50,7 +50,7 @@ const Contact = () => {
             Linkedin
           </a>
           <a
-            href="https://drive.google.com/file/d/1lKcZ7jrkwaM1KHl_L1dlu5ErO24tPB7m/view?usp=sharing"
+            href="https://drive.google.com/file/d/1pnyCbWsGh-xszbO8Usw0LYr1VPoknWxa/view?usp=sharing"
             className="mx-2 text-secondary"
             target="_blank"
             rel="noopener noreferrer"
