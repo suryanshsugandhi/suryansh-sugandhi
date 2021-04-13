@@ -13,13 +13,13 @@ const Contact = () => {
       </div>
       <div className="my-4">
         <a
-          href="mailto:suryansh71199@gmail.com"
+          href="mailto:contact@suryansh.dev"
           rel="noreferrer"
           className="external-link"
           target="_blank"
         >
           {" "}
-          suryansh71199@gmail.com{" "}
+          contact@suryansh.dev{" "}
         </a>
       </div>
 
